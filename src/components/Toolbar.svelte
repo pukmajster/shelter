@@ -29,10 +29,12 @@ import ToolbarClock from "./ToolbarClock.svelte";
 
     backdrop-filter: blur(20px) saturate(160%);
     background-color: rgba(241, 241, 241, 0.514);
-    background-color: rgba(241, 241, 241, 0.582);
+    background-color: rgba(255, 255, 255, 0.604);
     /* background-color: rgba(255, 255, 255, 0.445); */
 
     box-shadow: 0 0px 5px 2px rgba(26, 25, 25, 0.096);
+
+    z-index: 9999999999999;
   }
 
   .toolbar {
