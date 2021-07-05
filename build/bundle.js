@@ -589,7 +589,7 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			div = element("div");
-    			attr_dev(div, "class", "background svelte-enrtbj");
+    			attr_dev(div, "class", "background svelte-1plwytp");
     			add_location(div, file$9, 2, 0, 31);
     		},
     		l: function claim(nodes) {
