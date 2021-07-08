@@ -16,7 +16,7 @@
     width: 100%;
     height: 100%;
 
-    background-image: url('/media/c3.jpg');
+    /* background-image: url('/media/c3.jpg'); */
     background-image: url("../media/wallpapers/landscape-minimalist-minimalsim-y7139.jpg");
     /* background-image: url('/media/wallpapers/wp6451491.jpg'); */
     /* background-image: url('/media/wallpapers/498490.png'); */
